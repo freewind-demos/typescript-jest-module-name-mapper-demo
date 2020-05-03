@@ -1,7 +1,7 @@
-TypeScript Jest Demo
+TypeScript Jest Module Name Mapper Demo
 ===========================
 
-使用typescript就需要在`jest.config.js`中使用`ts-jest`作为`preset`
+使用"moduleNameMapper"在jest中替换某个module，参看jest.config.js
 
 ```
 npm install
